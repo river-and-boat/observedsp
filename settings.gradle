@@ -1,0 +1,3 @@
+rootProject.name = "ObservedSP"
+include ':app'
+include ':demo'
